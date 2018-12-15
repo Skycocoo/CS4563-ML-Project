@@ -15,6 +15,9 @@ Yuxi Luo, Sepehr Yazdani
 - [ ] Load the resulting weights from Google Cloud and run the model on computer to produce a good result on jupyter notebook
 - [ ] Finalize documentation
 
+## References
+
+Pre-trained word embeddings with keras: [1](https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html) [2](https://github.com/keras-team/keras/blob/master/examples/pretrained_word_embeddings.py)
 
 ## Miscellaneous stuffs
 
