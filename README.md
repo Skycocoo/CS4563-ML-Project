@@ -4,6 +4,7 @@ Auto encoder for Donald Trump’s tweet
 
 Yuxi Luo, Sepehr Yazdani
 
+## Installation
 
 ## Todo
 
