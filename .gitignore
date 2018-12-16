@@ -1,3 +1,5 @@
 *.DS_Store
+
 Reference/**/*.*
 !Reference/**/*.ipynb
+.ipynb_checkpoints/
